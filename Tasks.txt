@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is our document.  This is our edited document.  Hi Bruce what the heck is going on?
+=======
+This is our document.  This is our edited document.
+My name is Bruce.
+>>>>>>> 7889a0e422622747430c65c13818b31ca5777ad3
